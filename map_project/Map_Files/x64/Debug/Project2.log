@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(93,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(93,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(96,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(96,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(181,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(188,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(188,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(194,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TUF\Desktop\New folder\Space_Map\map_project\Project2\Source.cpp(194,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\TUF\Desktop\New folder\Space_Map\map_project\x64\Debug\Project2.exe
