@@ -29,7 +29,7 @@ Duck Game is a collaborative project developed by our team using SFML and C++. E
 
 ---
 
-If you want to experience the game and all its features, feel free to try it out in my [Duck Game repository](https://github.com/fady287/Duck_Game.git).  
+If you want to experience the game and all its features, feel free to try it out in [Duck Game repository](https://github.com/fady287/Duck_Game.git).  
 
 ![Screenshot 2025-05-16 212941](https://github.com/user-attachments/assets/2317118f-3821-448a-9a34-6b310a8a32f5)
 
