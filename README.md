@@ -6,7 +6,7 @@ This repository contains my individual contribution to the team project **Duck G
 
 ## 🚀 About My Contribution
 
-I designed and implemented a custom game level called **Space Map**, which simulates a realistic space environment to enhance the gameplay experience.
+I designed and implemented a custom game map called **Space Map**, which simulates a realistic space environment to enhance the gameplay experience.
 
 ### Key Features of the Space Map:
 - 🌕 **Moon-like ground sections** that serve as platforms for the player to jump on  
