@@ -1,5 +1,5 @@
 # 🦆 Duck Game – Space Map (SFML, C++)
-![Screenshot 2025-05-16 212941](https://github.com/user-attachments/assets/2317118f-3821-448a-9a34-6b310a8a32f5)
+
 ![Screenshot 2025-05-16 211250](https://github.com/user-attachments/assets/65ddf2ec-4981-40c7-966c-5c9b7dd00496)
 This repository contains my individual contribution to the team project **Duck Game**, developed using **C++** and **SFML**.
 
@@ -26,10 +26,12 @@ I designed and implemented a custom game level called **Space Map**, which simul
 
 Duck Game is a collaborative project developed by our team using SFML and C++. Each member contributed different levels and features to create a complete game experience.
 
----
-
-If you want to experience the game and all its features, feel free to try it out in my [forked repository](#).  
 
 ---
 
-Feel free to explore the code and assets. Feedback and collaboration are welcome!
+If you want to experience the game and all its features, feel free to try it out in [Duck Game repository]([#](https://github.com/fady287/Duck_Game.git)).  
+![Screenshot 2025-05-16 212941](https://github.com/user-attachments/assets/2317118f-3821-448a-9a34-6b310a8a32f5)
+---
+
+
+
